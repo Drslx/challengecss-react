@@ -1,0 +1,18 @@
+.car_card {
+  width: max-content;
+  margin-top: 10px;
+  padding: 10px;
+  border: 2px solid orange;
+  border-radius: 10px;
+  background-color: rgba(247, 195, 195, 0.431);
+}
+
+.car_details > li {
+  list-style-position: inside;
+  text-decoration: underline;
+  line-height: 1.4em;
+}
+
+.car_details li:hover {
+  color: orangered;
+}
